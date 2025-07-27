@@ -1,6 +1,7 @@
 # Agriculture-Farmer-kit
 
 PROBLEM STATEMENT 
+
 Agriculture plays a crucial role in the global economy and is vital for food security. 
 However, farmers face numerous challenges in optimizing their agricultural practices, 
 managing resources effectively, and maximizing crop yields. Traditional farming 
@@ -8,6 +9,7 @@ methods often lack access to real-time data, advanced analytics, and technology-
 solutions, resulting in inefficient resource allocation and suboptimal decision-making. 
 
 OBJECTIVE 
+
 The primary objective of the E-AGRI KIT is to revolutionize agriculture through 
 innovative technology. Our focus lies in developing a robust deep learning algorithm 
 for precise crop identification, bridging the gap between farmers and investors. We 
@@ -17,6 +19,7 @@ market prices. Through this, we aim to optimize agricultural processes, promote
 financial inclusivity, and fortify the agricultural supply chain. 
 
 SCOPE 
+
 The scope of the E-AGRI KIT extends across the agricultural landscape, offering a 
 comprehensive solution to multiple challenges. From leveraging deep learning for accurate 
 crop identification to establishing an investment platform for agricultural ventures, our 
@@ -25,6 +28,7 @@ alike. By facilitating efficient crop selling processes, our application aims to
 connected and empowered agricultural community.
 
 PROJECT INTRODUCTION 
+
 According to a study by the Associated Chambers of Commerce and Industry of India, 
 annual crops losses due to pests amount to Rs.50,000 crore ($500 billion), which is 
 tantamount to a country where at least 200 million go to bed hungry every night. 
